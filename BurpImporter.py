@@ -1,4 +1,6 @@
-﻿"""
+﻿#!/usr/local/bin/python
+# coding: latin-1
+"""
 Name:           Burp Importer
 Date:           02/01/2016
 Author:         Smeege
